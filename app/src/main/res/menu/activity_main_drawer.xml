@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    tools:showIn="navigation_view"
+    >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_new_credential"
+            android:icon="@drawable/ic_menu_new"
+            android:title="Nueva credencial" />
+        <item
+            android:id="@+id/nav_read_credential"
+            android:icon="@drawable/ic_menu_scan"
+            android:title="Leer credencial" />
+        <item
+            android:id="@+id/nav_charge_credential"
+            android:icon="@drawable/ic_menu_money_off"
+            android:title="Realizar un cargo" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_money"
+            android:title="Realizar un depósito" />
+
+        <item
+            android:id="@+id/nav_lost_credential"
+            android:icon="@drawable/ic_menu_lostfound"
+            android:title="Credenciales perdidas" />
+
+    </group>
+
+</menu>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "300355847090",
+    "firebase_url": "https://identificatec-5a952.firebaseio.com",
+    "project_id": "identificatec-5a952",
+    "storage_bucket": "identificatec-5a952.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300355847090:android:3d3047eb21d6cb92",
+        "android_client_info": {
+          "package_name": "android.com.identificatecadministrador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300355847090-gigh764q33mq0p0a52h815r14bl819q6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.com.identificatecadministrador",
+            "certificate_hash": "8307b7777060b9b7dd52b0435e4da276d83f1093"
+          }
+        },
+        {
+          "client_id": "300355847090-m7pptm8hkc0ss7urb2qpki88vk6pa6gr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8eY2mYC-0mbOTDAoWtkppDViwAtp_VFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300355847090-m7pptm8hkc0ss7urb2qpki88vk6pa6gr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
